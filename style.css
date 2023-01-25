@@ -68,7 +68,7 @@
         box-shadow: 0rem 0.9375rem 1.25rem 0.3125rem rgba(0, 0, 0, 0.2);
         width: 85%;
         max-width: 31.25rem;
-        height: 14.375rem;
+        height: 14.6875rem;
         border-radius: 0.125rem;
         background-color: rgb(255, 255, 255);
         transition: all 0.35s ease-in-out;
@@ -89,7 +89,7 @@
         font-size: 1.1563rem;
         letter-spacing: 0.0625rem;
         font-weight: 700;
-        padding: 1.25rem;
+        padding: 16px;
         color: var(--clr-Very-Dark-Blue);
     }
 
